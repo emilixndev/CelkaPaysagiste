@@ -49,20 +49,20 @@ const Contact = () => {
                 <HiOutlineMailOpen size={20} className="mt-5" />
               </div>
               <input
-                type="text"
+                type="email"
                 className=" border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5  "
                 placeholder="nom@exemple.fr"
               />
             </div>
             <div className="relative mb-6">
-              Tel
+              Téléphone
               <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
                 <BsTelephoneInbound size={20} className="mt-5" />
               </div>
               <input
                 type="text"
                 className=" border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5  "
-                placeholder="07 xx xx xx xx"
+                placeholder="06 xx xx xx xx"
               />
             </div>
             <div className="relative mb-6">

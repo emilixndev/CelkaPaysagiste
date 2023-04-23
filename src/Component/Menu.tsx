@@ -1,4 +1,4 @@
-import { MdOutlineEmail, TfiLocationPin } from 'react-icons/all';
+import { AiOutlinePhone, MdOutlineEmail, TfiLocationPin } from 'react-icons/all';
 import { Link } from 'react-router-dom';
 
 const Menu = () => {
@@ -9,10 +9,10 @@ const Menu = () => {
           Lorem ipsum dolor sit amet,
           <div className="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border  md:flex-row md:space-x-8 md:mt-0 md:border-0 ">
-              <li>
-                Si vous avez une question :
-                <a href="#" aria-current="page">
-                  0786372610
+              <li className="flex">
+                <AiOutlinePhone size={25}></AiOutlinePhone>
+                <a href="#" aria-current="page" className="hover:underline">
+                  &nbsp;07-86-37-26-10
                 </a>
               </li>
             </ul>
@@ -67,8 +67,9 @@ const Menu = () => {
               <Link to="/contact">
                 <li className=" hover:text-primary">Contact</li>
               </Link>
-
-              <li className=" hover:text-primary">Demande de devis</li>
+              <Link to="/devis">
+                <li className=" hover:text-primary">Demande de devis</li>
+              </Link>
             </ul>
           </div>
         </div>
