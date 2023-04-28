@@ -10,7 +10,7 @@ const Contact = () => {
       <br />
       <br />
       <br />
-      <div className="border-solid border-black w-[75%] h-full flex mx-auto border p-5 rounded shadow-xl">
+      <div className="border-solid border-primary border-2  w-[75%] h-full flex mx-auto  p-5 rounded shadow-xl">
         <div className="flex-row w-full">
           <div className="flex-wrap">
             <div className="text-3xl">Restons en contact</div>

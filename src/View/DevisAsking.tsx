@@ -19,11 +19,15 @@ const devisAsking = () => {
       <br />
       <br />
       <br />
-      <div className="border-solid border-black w-[75%] h-full flex mx-auto border p-5 rounded shadow-xl">
+      <div className="border-solid border-primary border-2 w-[75%] h-full flex mx-auto p-5 rounded shadow-xl">
         <div className="flex-row w-full">
           <div className="flex-wrap">
             <div className="text-3xl">Demandez votre devis gratuitement</div>
-            <div className="text-gray-400">blalbla</div>
+            <div className="text-gray-400">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad cum dignissimos eum exercitationem facere
+              facilis, fuga, harum illum incidunt inventore itaque laborum minima natus nemo non ratione tempore
+              tenetur?{' '}
+            </div>
           </div>
           <div className="divider"></div>
           <div className="flex-wrap  mt-5">
