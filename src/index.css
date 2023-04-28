@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+body,
+html {
+    font-family: "Arvo";
+}
+
+@font-face {
+    font-family: 'Arvo';
+    src: local('Arvo'), url(./fonts/Arvo/Arvo-Regular.ttf) format('truetype');
+}
