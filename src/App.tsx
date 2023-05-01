@@ -4,6 +4,7 @@ import './App.css';
 import Contact from './View/Contact';
 import DevisAsking from './View/DevisAsking';
 import HomeView from './View/HomeView';
+import News from './View/News';
 import PhotoGallery from './View/PhotoGallery';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Route path="contact" element={<Contact />}></Route>
         <Route path="devis" element={<DevisAsking />}></Route>
         <Route path="photoGallery" element={<PhotoGallery />}></Route>
+        <Route path="news" element={<News />}></Route>
         {/*  <Route path="post/:id" element={<PostView />}></Route>*/}
         <Route path="*" element={<Navigate to="home" />} />
       </Routes>

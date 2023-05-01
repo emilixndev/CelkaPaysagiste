@@ -143,7 +143,6 @@ const PhotoGallery = () => {
           </div>
         </div>
       </div>
-      Gallery
       <Footer />
     </>
   );

@@ -61,7 +61,9 @@ const Menu = () => {
             <Link to="/photoGallery">
               <li className=" hover:text-primary">Galerie photo</li>
             </Link>
-            <li className="hover:text-primary">Actualités</li>
+            <Link to="/news">
+              <li className="hover:text-primary">Actualités</li>
+            </Link>
             <li className=" hover:text-primary">Qui somme nous</li>
           </ul>
 
