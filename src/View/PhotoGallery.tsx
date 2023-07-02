@@ -10,7 +10,7 @@ const PhotoGallery = () => {
       <div className="text-3xl font-bold text-center mt-5"> Galerie Photo</div>
       <div className="grid grid-cols-3  w-[80%] m-auto   mt-10 gap-10">
         <div className="relative overflow-hidden bg-no-repeat bg-cover  group">
-          <img className="object-cover   w-full h-60 rounded-2xl " src="../src/img/cropped-1920-1080-872716.jpg" />
+          <img className="object-cover   w-full h-96 rounded-2xl " src="../src/img/A7404385.jpg" />
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 group-hover:opacity-70 transition duration-700 ease-in-out bg-white  rounded-2xl"></div>
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full  overflow-hidden text-white opacity-0 group-hover:opacity-100 transition duration-700 ease-in-out  rounded-2xl">
             <div className="text-black flex justify-center h-full items-center">
@@ -29,7 +29,7 @@ const PhotoGallery = () => {
           </div>
         </div>{' '}
         <div className="relative overflow-hidden bg-no-repeat bg-cover  group">
-          <img className="object-cover   w-full h-60 rounded-2xl " src="../src/img/cropped-1920-1080-872716.jpg" />
+          <img className="object-cover   w-full h-96 rounded-2xl " src="../src/img/A7404430.jpg" />
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 group-hover:opacity-70 transition duration-700 ease-in-out bg-white  rounded-2xl"></div>
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full  overflow-hidden text-white opacity-0 group-hover:opacity-100 transition duration-700 ease-in-out  rounded-2xl">
             <div className="text-black flex justify-center h-full items-center">
@@ -48,7 +48,7 @@ const PhotoGallery = () => {
           </div>
         </div>{' '}
         <div className="relative overflow-hidden bg-no-repeat bg-cover  group">
-          <img className="object-cover   w-full h-60 rounded-2xl " src="../src/img/cropped-1920-1080-872716.jpg" />
+          <img className="object-cover   w-full h-96 rounded-2xl " src="../src/img/A7404423.jpg" />
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 group-hover:opacity-70 transition duration-700 ease-in-out bg-white  rounded-2xl"></div>
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full  overflow-hidden text-white opacity-0 group-hover:opacity-100 transition duration-700 ease-in-out  rounded-2xl">
             <div className="text-black flex justify-center h-full items-center">
@@ -67,7 +67,7 @@ const PhotoGallery = () => {
           </div>
         </div>{' '}
         <div className="relative overflow-hidden bg-no-repeat bg-cover  group">
-          <img className="object-cover   w-full h-60 rounded-2xl " src="../src/img/cropped-1920-1080-872716.jpg" />
+          <img className="object-cover   w-full h-96 rounded-2xl " src="../src/img/A7404483.jpg" />
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 group-hover:opacity-70 transition duration-700 ease-in-out bg-white  rounded-2xl"></div>
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full  overflow-hidden text-white opacity-0 group-hover:opacity-100 transition duration-700 ease-in-out  rounded-2xl">
             <div className="text-black flex justify-center h-full items-center">
@@ -86,7 +86,7 @@ const PhotoGallery = () => {
           </div>
         </div>{' '}
         <div className="relative overflow-hidden bg-no-repeat bg-cover  group">
-          <img className="object-cover   w-full h-60 rounded-2xl " src="../src/img/cropped-1920-1080-872716.jpg" />
+          <img className="object-cover   w-full h-96 rounded-2xl " src="../src/img/A7404511.jpg" />
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 group-hover:opacity-70 transition duration-700 ease-in-out bg-white  rounded-2xl"></div>
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full  overflow-hidden text-white opacity-0 group-hover:opacity-100 transition duration-700 ease-in-out  rounded-2xl">
             <div className="text-black flex justify-center h-full items-center">
@@ -105,7 +105,7 @@ const PhotoGallery = () => {
           </div>
         </div>{' '}
         <div className="relative overflow-hidden bg-no-repeat bg-cover  group">
-          <img className="object-cover   w-full h-60 rounded-2xl " src="../src/img/cropped-1920-1080-872716.jpg" />
+          <img className="object-cover   w-full h-96 rounded-2xl " src="../src/img/A7404576.jpg" />
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 group-hover:opacity-70 transition duration-700 ease-in-out bg-white  rounded-2xl"></div>
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full  overflow-hidden text-white opacity-0 group-hover:opacity-100 transition duration-700 ease-in-out  rounded-2xl">
             <div className="text-black flex justify-center h-full items-center">
@@ -124,7 +124,7 @@ const PhotoGallery = () => {
           </div>
         </div>{' '}
         <div className="relative overflow-hidden bg-no-repeat bg-cover  group">
-          <img className="object-cover   w-full h-60 rounded-2xl " src="../src/img/cropped-1920-1080-872716.jpg" />
+          <img className="object-cover   w-full h-96 rounded-2xl " src="../src/img/A7404595.jpg" />
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 group-hover:opacity-70 transition duration-700 ease-in-out bg-white  rounded-2xl"></div>
           <div className="absolute top-0 right-0 bottom-0 left-0 w-full h-full  overflow-hidden text-white opacity-0 group-hover:opacity-100 transition duration-700 ease-in-out  rounded-2xl">
             <div className="text-black flex justify-center h-full items-center">

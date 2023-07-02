@@ -10,6 +10,7 @@ const Contact = () => {
       <br />
       <br />
       <br />
+      <p className="text-center text-8xl text-warning">Maps et adresse</p>
       <div className="border-solid border-primary border-2  w-[75%] h-full flex mx-auto  p-5 rounded shadow-xl">
         <div className="flex-row w-full">
           <div className="flex-wrap">

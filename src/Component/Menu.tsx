@@ -6,7 +6,7 @@ const Menu = () => {
     <>
       <nav className="bg-primary border-gray-200  text-white">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-3">
-          Lorem ipsum dolor sit amet,
+          A votre service depuis 1997
           <div className="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border  md:flex-row md:space-x-8 md:mt-0 md:border-0 ">
               <li className="flex">
@@ -22,7 +22,7 @@ const Menu = () => {
       <nav className="bg-white ">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-5">
           {/*<img src="../src/img/images.png" className="h-8 mr-3" alt="Flowbite Logo" />*/}
-          <h1 className="font-['Billabong'] text-[44px]">Celka paysagiste</h1>{' '}
+          <h1 className=" text-[44px]">CELKA </h1>{' '}
           <div className="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul className="flex flex-col p-0 md:flex-row space-x-8 mt-0 border-0">
               <li className="flex items-center">
